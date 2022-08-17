@@ -7,8 +7,11 @@
 @import "components/screen-header.css";
 /*screens*/
 @import "screens/login.css";
+@import "screens/screen-froends.css";
 
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #2e363e;
   height: 1000vh;
+  opacity: 90%;
 }
