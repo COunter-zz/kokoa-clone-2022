@@ -16,3 +16,7 @@ body {
   height: 1000vh;
   opacity: 90%;
 }
+
+.main-screen {
+  padding: 0px var(--horizontal-space);
+}
