@@ -9,3 +9,13 @@
   color: white;
   font-weight: 600;
 }
+.badge_sm {
+  display: flex;
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  position: absolute;
+  bottom: 15px;
+  margin-right: -10px;
+}
